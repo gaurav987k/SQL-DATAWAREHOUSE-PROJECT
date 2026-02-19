@@ -20,7 +20,7 @@ The goal of this project is to simulate a real-world business intelligence envir
 
 ## Project Architecture
 
-![Data Warehouse Architecture](docs/architecture.png)
+![Data Warehouse Architecture](docs/data_architecture_deh.png)
 
 ```
 Source Data (CSV Files)
